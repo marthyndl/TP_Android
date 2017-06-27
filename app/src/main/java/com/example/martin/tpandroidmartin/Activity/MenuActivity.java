@@ -1,7 +1,9 @@
-package com.example.martin.tpandroidmartin;
+package com.example.martin.tpandroidmartin.Activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.example.martin.tpandroidmartin.R;
 
 public class MenuActivity extends AppCompatActivity {
 
